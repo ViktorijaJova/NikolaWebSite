@@ -35,6 +35,13 @@ body {
      width: 640px;
    }
 
+
+   .img-fluid1-34{
+    margin-left: 300px;
+     height: 450px;
+     width: 840px;
+   }
+
 ::-moz-selection {
   background: #000;
   color: #fff; }
