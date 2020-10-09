@@ -18,26 +18,31 @@ body {
   border-radius: 390px;
 }
   .img-fluid1-2{
-   margin-left: 440px;
+    position: relative;
+   left: 440px;
     height: 500px;
     width: 590px;
   }
+
   .img-fluid1-3{
-    margin-left: 400px;
+    position: relative;
+    left: 400px;
      height: 800px;
      width: 640px;
    }
 
 
    .img-fluid1-33{
-    margin-left: 400px;
+     position: relative;
+     left: 400px;
      height: 500px;
      width: 640px;
    }
 
 
    .img-fluid1-34{
-    margin-left: 300px;
+     position: relative;
+    left: 300px;
      height: 450px;
      width: 840px;
    }
@@ -63,7 +68,8 @@ body {
   left: 470px;
 }
   .img-fluid11{
-    margin-left: 160px;
+    position: relative;
+    left: 160px;
     height: 520px;
     width: 1120px;
   }
