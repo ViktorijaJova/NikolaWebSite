@@ -51,11 +51,13 @@ a {
 .offcanvas-menu .site-wrap {
   position: absolute;
   height: 100%;
+  color: #20c997;
   width: 100%;
   z-index: 2;
   overflow: hidden; }
   .offcanvas-menu .site-wrap:before {
-    opacity: 1;
+    opacity: 10;
+  color: #20c997;
     visibility: visible; }
 
 .btn {
@@ -379,6 +381,7 @@ a {
   .offcanvas-menu .site-mobile-menu {
     -webkit-transform: translateX(0%);
     -ms-transform: translateX(0%);
+    color: violet;
     transform: translateX(0%); }
   .site-mobile-menu .site-mobile-menu-header {
     width: 100%;
